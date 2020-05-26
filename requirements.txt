@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+Flask-GraphQL
+Flask-Migrate
+Graphene
+Graphene-SQLAlchemy
